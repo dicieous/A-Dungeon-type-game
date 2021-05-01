@@ -1,2 +1,2 @@
 # A-Dungeon-type-game
-A dungeon type Short game, I'm develop as I learn.
+A dungeon type Short game, I'll develop as I learn.
